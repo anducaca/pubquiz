@@ -43,4 +43,4 @@ for question in quiz_questions:
         print(f"Wrong! The correct answer was {question['answer']}.")
 
 # Goodbye message
-print("Thanks for playing the Pub Quiz!")
+print("Thanks for playing the rather lame Pub Quiz!")
