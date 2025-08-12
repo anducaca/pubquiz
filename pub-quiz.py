@@ -4,9 +4,9 @@ print("Welcome to the Pub Quiz!")
 # List of questions, options, and answers
 quiz_questions = [
     {
-        "question": "What is the capital of France?",
-        "options": ["A) London", "B) Paris", "C) Berlin", "D) Madrid"],
-        "answer": "B"
+        "question": "What is the capital of Norfolk?",
+        "options": ["A) London", "B) Paris", "C) Berlin", "D) Naaaaaarich"],
+        "answer": "D"
     },
     {
         "question": "What is 2 + 2?",
