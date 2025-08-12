@@ -23,6 +23,11 @@ quiz_questions = [
         "options": ["A) The Sea", "B) The Sky", "C) Donald Trump", "D) Lemon"],
         "answer": "C"
     },
+           {
+        "question": "What goes best with jacket potatoes?",
+        "options": ["A) Cheese", "B) Beans", "C) Cheese & Beans", "D) I don't like them"],
+        "answer": "C"
+    },
     # Learners can add more questions here following the same structure
 ]
 
@@ -43,4 +48,4 @@ for question in quiz_questions:
         print(f"Wrong! The correct answer was {question['answer']}.")
 
 # Goodbye message
-print("Thanks for playing the Pub Quiz!")
+print("Thanks for playing the rather lame Pub Quiz!")
