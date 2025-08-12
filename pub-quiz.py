@@ -23,6 +23,11 @@ quiz_questions = [
         "options": ["A) The Sea", "B) The Sky", "C) Donald Trump", "D) Lemon"],
         "answer": "C"
     },
+           {
+        "question": "What goes best with jacket potatoes?",
+        "options": ["A) Cheese", "B) Beans", "C) Cheese & Beans", "D) I don't like thema"],
+        "answer": "C"
+    },
     # Learners can add more questions here following the same structure
 ]
 
