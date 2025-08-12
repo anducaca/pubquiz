@@ -15,8 +15,13 @@ quiz_questions = [
     },
         {
         "question": "What is Pi?",
-        "options": ["A) 3.14", "B) SAteak & Kidney", "C) Chicken", "D) Lemon"],
+        "options": ["A) 3.14", "B) Steak & Kidney", "C) Chicken", "D) Lemon"],
         "answer": "A"
+    },
+       {
+        "question": "What is Orange?",
+        "options": ["A) The Sea", "B) The Sky", "C) Donald Trump", "D) Lemon"],
+        "answer": "C"
     },
     # Learners can add more questions here following the same structure
 ]
