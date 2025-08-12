@@ -13,6 +13,11 @@ quiz_questions = [
         "options": ["A) 3", "B) 4", "C) 5", "D) 22"],
         "answer": "B"
     },
+        {
+        "question": "What is Pi?",
+        "options": ["A) 3.14", "B) SAteak & Kidney", "C) Chicken", "D) Lemon"],
+        "answer": "A"
+    },
     # Learners can add more questions here following the same structure
 ]
 
